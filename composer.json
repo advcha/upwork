@@ -1,0 +1,6 @@
+{
+    "name": "advcha/upwork",
+    "require": {
+        "upwork/php-upwork": "dev-master"
+    }
+}
